@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2-owncloud-api/yii2-owncloud-api "*"
+php composer.phar require --prefer-dist thanhpv/yii2-owncloud-api "*"
 ```
 
 or add
 
 ```
-"yii2-owncloud-api/yii2-owncloud-api": "*"
+"thanhpv/yii2-owncloud-api": "*"
 ```
 
 to the require section of your `composer.json` file.
