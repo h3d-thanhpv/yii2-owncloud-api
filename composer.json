@@ -1,0 +1,21 @@
+{
+    "name": "thanhpv/yii2-owncloud-api",
+    "description": "API for Owncloud",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phan Van Thanh",
+            "email": "thanhpv.h9@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "owncloud\\api\\": ""
+        }
+    }
+}
