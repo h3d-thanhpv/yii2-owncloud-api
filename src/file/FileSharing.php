@@ -2,6 +2,9 @@
 
 namespace owncloud\api\file;
 
+use owncloud\api\Client;
+use owncloud\api\ResponseException;
+
 class FileSharing
 {
     /** @var Client $client */
